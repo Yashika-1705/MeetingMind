@@ -1,4 +1,3 @@
 # MeetingBot
 
 
-`print hello`
